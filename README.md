@@ -1,2 +1,1 @@
-"# Django_Project" 
-"# Ecommerce_Django_Project" 
+"# project of e-commerce" 
